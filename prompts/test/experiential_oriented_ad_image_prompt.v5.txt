@@ -1,3 +1,0 @@
-Based on the white-backgroud product picture, generate a picture for advertising.
-
-Picture style definition: Generate an Experiential-oriented image that communicates an experiential brand concept. Experiential means the product is linked to internally generated needs for sensory pleasure, variety, cognitive stimulation, stimulation, immersion, or felt consumption experience.
